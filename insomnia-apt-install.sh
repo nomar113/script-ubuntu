@@ -9,3 +9,6 @@ wget --quiet -O - https://insomnia.rest/keys/debian-public.key.asc \
 # Refresh repository sources and install Insomnia
 sudo apt update
 sudo apt install insomnia
+
+# Add the Dracula theme
+git clone https://github.com/dracula/insomnia.git ~/.config/Insomnia/plugins/dracula-theme
