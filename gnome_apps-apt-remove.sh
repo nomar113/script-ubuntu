@@ -1,1 +1,1 @@
-sudo apt remove gnome-sudoku gnome-mines gnome-mahjongg gnome-todo gnome-todo-common aisleriot shotwell shotwell-common -y
+sudo apt remove gnome-sudoku gnome-mines gnome-mahjongg gnome-todo gnome-todo-common aisleriot shotwell shotwell-common remmina remmina-common thunderbird transmission-common rhythmbox rhythmbox-data -y
